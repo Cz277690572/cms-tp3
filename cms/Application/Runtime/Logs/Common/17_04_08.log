@@ -1,0 +1,12 @@
+[ 2017-04-08T22:45:53+08:00 ] ::1 /m=home/c=index/a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:M=home
+
+[ 2017-04-08T22:46:03+08:00 ] ::1 /index.php?m=home/c=index/a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Home/c=index/a=index
+

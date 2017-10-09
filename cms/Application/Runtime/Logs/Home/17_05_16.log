@@ -1,0 +1,11 @@
+[ 2017-05-16T22:50:53+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [2] Declaration of Home\Controller\CommonController::error($message = '') should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) C:\xampp\htdocs\cms\Application\Home\Controller\CommonController.class.php 第 27 行.
+NOTIC: [2] Declaration of Admin\Model\NewsModel::find($id) should be compatible with Think\Model::find($options = Array) C:\xampp\htdocs\cms\Application\Admin\Model\NewsModel.class.php 第 8 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+

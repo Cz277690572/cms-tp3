@@ -1,0 +1,1 @@
+a:5:{s:5:"title";s:4:"LIPO";s:8:"keywords";s:34:"新闻 体育 教育 科技 娱乐";s:11:"description";s:61:"LIPO资讯网是提供最新的体育等栏目的新闻网站";s:9:"dumpmysql";s:1:"0";s:10:"cacheindex";s:1:"0";}
